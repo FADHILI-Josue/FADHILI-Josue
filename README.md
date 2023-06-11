@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 ## Contributions
 [![Your Name's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=FADHILI-Josue&theme=radical)](https://github.com/FADHILI-Josue)
 
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects
 
 ### [Project 1](https://github.com/FADHILI-Josue/project1)
 Short description or tagline for Project 1.
@@ -38,7 +38,7 @@ Short description or tagline for Project 1.
 Short description or tagline for Project 2.
 
 ### [Project 3](https://github.com/FADHILI-Josue/project3)
-Short description or tagline for Project 3.
+Short description or tagline for Project 3. -->
 
 ## 📫 How to Reach Me
 
