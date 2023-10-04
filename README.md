@@ -1,9 +1,10 @@
 ### Hi there,I'm FADHILI 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadhili-josue/)](https://www.linkedin.com/in/fadhili-josue/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. Here you'll find some of my personal and open-source projects. Feel free to explore, contribute, and connect.
+
 ## 💻 Technologies & Tools
 
 - Programming Languages: [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.java.com/)
@@ -17,16 +18,10 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 - [Certified Scrum Developer (CSD)](https://www.scrumalliance.org/get-certified/scrum-developer-certification)
 - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-## 📊 GitHub Stats
-
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FADHILI-Josue&count_private=true&show_icons=true&theme=radical)](https://github.com/yourusername)
-
 ## 🔥 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FADHILI-Josue&layout=compact&theme=radical)](https://github.com/yourusername)
 
-## Contributions
-[![Your Name's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=FADHILI-Josue&theme=radical)](https://github.com/FADHILI-Josue)
 <!-- ## 🌟 Featured Projects
 
 ### [Project 1](https://github.com/FADHILI-Josue/project1)
@@ -57,7 +52,6 @@ You can reach out to me via email at [fadhilijosue27@gmail.com](mailto:fadhilijo
 [![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)](https://ionicframework.com/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.dev/)
-[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.dev/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -72,6 +66,5 @@ You can reach out to me via email at [fadhilijosue27@gmail.com](mailto:fadhilijo
 
   
 </div>
-
 
 Looking forward to collaborating and learning with fellow developers! 😄
