@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 <div align="center">
 
 <a href="https://github.com/FADHILI-Josue/">
-  <img src="https://github-readme-stats.vercel.app/api?username=FADHILI-Josue&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FADHILI-Josue&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="FADHILI-Josue"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FADHILI-Josue&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="FADHILI-Josue github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FADHILI-Josue&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="FADHILI-Josue github stats"/>
 </a>
 </div>
 
