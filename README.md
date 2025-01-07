@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 
 <br>
 
-## <img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif?raw=true" width = 50px><b> **About me**</b>
+## <b>**About me**</b>
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif" width = 200px></picture>
 
